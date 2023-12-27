@@ -1,6 +1,7 @@
 button {
     background-color: #00ccff40;
     font-weight: bold;
-    font-size: 80px;
+    font-size: 20px;
     text-align: center;
+    margin: 16px;
 }
