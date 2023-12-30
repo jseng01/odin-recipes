@@ -4,15 +4,15 @@ body{
 div {
     border: 5px;
     width: 500px;
-    height: 280px;
+    height: 300px;
     border-style: solid;
     border-color: #000266e0;
-    padding: 8px;
+    padding: 12px;
 }
 p { 
     color: rgb(206, 211, 211);
 }
-ul/ol {
+.list {
     color: rgb(206, 211, 211);
 }
 button {
@@ -27,4 +27,12 @@ img {
     width: 275px;
     display:;
     box-sizing: content-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+     color: #789af7d0;
 }
