@@ -12,6 +12,9 @@ div {
 p { 
     color: rgb(206, 211, 211);
 }
+ul/ol {
+    color: rgb(206, 211, 211);
+}
 button {
     background-color: #fdfdfdcc;
     font-weight: bold;
@@ -21,4 +24,7 @@ button {
 }
 img {
     margin: auto 26px;
+    width: 275px;
+    display:;
+    box-sizing: content-box;
 }
